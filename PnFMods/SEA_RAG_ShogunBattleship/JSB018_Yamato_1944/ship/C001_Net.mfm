@@ -1,0 +1,26 @@
+<C001_Net.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	150	</Int>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/default_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/C001_Net_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/C001_Net_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/default_ao.tga	</Texture>
+	</property>
+</C001_Net.mfm>

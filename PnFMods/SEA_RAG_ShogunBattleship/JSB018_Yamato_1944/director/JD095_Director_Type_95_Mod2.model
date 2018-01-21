@@ -1,0 +1,8 @@
+<JD095_Director_Type_95_Mod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/director/JD095_Director_Type_95_Mod2_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/director/JD095_Director_Type_95_Mod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD095_Director_Type_95_Mod2.model>

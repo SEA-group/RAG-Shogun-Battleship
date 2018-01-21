@@ -1,1 +1,153 @@
-<JSB018_Yamato_1944_MidFront.visual><boundingBox><min>-1.336354 -0.716196 0.200599</min><max>1.342614 0.975900 5.302680</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>MidFront</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidFront_crack_Bow</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidFront_crack_Bow_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidFront_crack_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidFront_crack_MidBack_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidFront_patch_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront</node><geometry><vertices>MidFrontShape.vertices</vertices><primitive>MidFrontShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/0afc77fff0f2de8ac653a9356426779b.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_Bow</node><geometry><vertices>MidFront_crack_BowShape.vertices</vertices><primitive>MidFront_crack_BowShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/0afc77fff0f2de8ac653a9356426779b.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_Bow_in</node><geometry><vertices>MidFront_crack_Bow_inShape.vertices</vertices><primitive>MidFront_crack_Bow_inShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/a40021ff1c51c14c0e9bece63fd59c73.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_MidBack</node><geometry><vertices>MidFront_crack_MidBackShape.vertices</vertices><primitive>MidFront_crack_MidBackShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/0afc77fff0f2de8ac653a9356426779b.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_MidBack_in</node><geometry><vertices>MidFront_crack_MidBack_inShape.vertices</vertices><primitive>MidFront_crack_MidBack_inShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/a40021ff1c51c14c0e9bece63fd59c73.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_patch_MidBack</node><geometry><vertices>MidFront_patch_MidBackShape.vertices</vertices><primitive>MidFront_patch_MidBackShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/0afc77fff0f2de8ac653a9356426779b.mfm</mfm></material></primitiveGroup></geometry></renderSet></JSB018_Yamato_1944_MidFront.visual>
+<JSB018_Yamato_1944_MidFront.visual>
+	<boundingBox>
+		<min>	-1.336354 -0.716196 0.200599	</min>
+		<max>	1.342614 0.975900 5.302680	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidFront	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidFront_crack_Bow	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_Bow_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_MidBack_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront	</node>
+		<geometry>
+			<vertices>	MidFrontShape.vertices	</vertices>
+			<primitive>	MidFrontShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow	</node>
+		<geometry>
+			<vertices>	MidFront_crack_BowShape.vertices	</vertices>
+			<primitive>	MidFront_crack_BowShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_inShape.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_inShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/C003_Razlom_old.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBackShape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_inShape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_inShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/C003_Razlom_old.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBackShape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_RAG_ShogunBattleship/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JSB018_Yamato_1944_MidFront.visual>
